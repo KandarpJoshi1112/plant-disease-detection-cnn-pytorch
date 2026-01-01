@@ -1,0 +1,9 @@
+D:\Kandarp-Projects\cnn-image-classifier\data\raw\PlantVillage\plantvillage dataset In this Folder i Have 3 Folder
+colour
+grayscale
+segmented
+And inside these we have your given Apple_Apple_Scab and other categories
+
+D:\Kandarp-Projects\cnn-image-classifier\data\raw\PlantVillage\plantvillage dataset\color
+D:\Kandarp-Projects\cnn-image-classifier\data\raw\PlantVillage\plantvillage dataset\grayscale
+D:\Kandarp-Projects\cnn-image-classifier\data\raw\PlantVillage\plantvillage dataset\segmented
